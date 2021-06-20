@@ -1,0 +1,16 @@
+body
+{
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
