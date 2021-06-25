@@ -14,3 +14,11 @@ h1 {
     top: 0;
     z-index: 99999;
 }
+
+#video1{
+    width : 80%;
+}
+
+marquee{
+    background-color: blue;
+}
